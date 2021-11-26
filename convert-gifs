@@ -1,0 +1,9 @@
+#!/bin/sh
+
+convert -delay 50 -loop 0 -dispose previous stuff-1-*.png stuff-1.gif
+convert -delay 50 -loop 0 -dispose previous stuff-2-*.png stuff-2.gif
+convert -delay 50 -loop 0 -dispose previous scene-trees-*.png scene-trees.gif
+convert -delay 50 -loop 0 -dispose previous scene-goblin-*.png scene-goblin.gif
+convert -delay 50 -loop 0 -dispose previous scene-eye-*.png scene-eye.gif
+convert -delay 50 -loop 0 -dispose previous characters-*.png characters.gif
+

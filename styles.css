@@ -1,0 +1,23 @@
+* {
+  font-family: "Patrick Hand SC";
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.9em;
+  padding: 2em;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+h1, h2, h3 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 2em auto;
+  max-width: 100%;
+}
